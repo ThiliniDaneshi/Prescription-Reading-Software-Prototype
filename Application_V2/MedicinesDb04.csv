@@ -1,0 +1,480 @@
+Class,Second_name,Generic_name,Dosage(mg),Administration,Dosage_form,Frequency,Time_of_Use,Age
+Adizem,SR,Diltiazem,120,oral,cap,2,nill,Adult
+Adizem,SR,Diltiazem,90,oral,cap/tab,2,nill,Adult
+Adizem,XL,Diltiazem,240,oral,cap/tab,1,nill,Adult
+Adizem,XL,Diltiazem,300,oral,cap/tab,1,nill,Adult
+Adizem,XL,Diltiazem,300,oral,cap/tab,1,nill,Elderly
+Adizem,XL,Diltiazem,120,oral,cap/tab,1,nill,Elderly
+Alprazolam,Besylate,same,0.25,oral,cap/tab,2,nill,Elderly
+Alprazolam,bitartrate,same,0.25,oral,cap/tab,3,nill,Adult
+Alprazolam,nill,same,0.5,oral,cap/tab,3,nill,Adult
+Alprazolam,nill,same,1,oral,cap/tab,3,nill,Adult
+Alprazolam,nill,same,0.25,oral,cap/tab,3,nill,Elderly
+Amitriptyline,calcium,same,75,oral,cap/tab,1,nocte,Elderly
+Amitriptyline,calcium,same,150,oral,cap/tab,1,nocte,Elderly
+Amitriptyline,nill,same,5,oral,cap/tab,1,nocte,Adult
+Amitriptyline,nill,same,10,oral,cap/tab,1,nocte,Adult
+Amitriptyline,nill,same,30,oral,cap/tab,1,nocte,Adult
+Amitriptyline,nill,same,50,oral,cap/tab,1,nocte,Adult
+Amitriptyline,nill,same,75,oral,cap/tab,1,nocte,Adult
+Amitriptyline,nill,same,150,oral,cap/tab,1,nocte,Adult
+Amitriptyline,nill,same,200,oral,cap/tab,1,nocte,Adult
+Amitriptyline,nill,same,30,oral,cap/tab,1,nocte,Elderly
+Amitriptyline,sulphate,same,200,oral,cap/tab,1,nocte,Elderly
+Amlodipine,nill,same,5,oral,cap/tab,1,nill,Adult
+Amlodipine,nill,same,10,oral,cap/tab,1,nill,Adult
+Amoxicillin,benzoate,same,125,oral,cap,2,nill,child I
+Amoxicillin,hydrochloride,same,125,oral,cap,3,nill,child I
+Amoxicillin,Insulin,same,250,oral,cap,2,nill,child III
+Amoxicillin,lactate,same,500,oral,cap,3,nill,child IV
+Amoxicillin,nill,same,125,oral,cap,2,nill,child II
+Amoxicillin,nill,same,250,oral,cap,3,nill,child II
+Amoxicillin,nill,same,500,oral,cap,3,nill,child III
+Amoxicillin,nill,same,500,oral,cap,2,nill,child IV
+Amoxicillin,nill,same,1,oral,cap,3,nill,child III
+Amoxicillin,nill,same,1,oral,cap,3,nill,child IV
+Amoxicillin,nill,same,500,oral,cap,3,nill,Adult
+Amoxicillin,nill,same,1,oral,cap,3,nill,Adult
+Amoxicillin,nill,same,1,oral,cap,2,nill,Adult
+Amoxicillin,nill,same,3,oral,cap,3,stat,Adult
+Amoxicillin,nill,same,125mg/5ml,oral,susp,nill,nill,nill
+Angitil,SR,Diltiazem,90,oral,cap/tab,2,nill,Adult
+Aspirin,nill,same,300,oral,cap/tab,1,nill,Adult
+Aspirin,nill,same,75,oral,cap/tab,1,nill,Adult
+Aspirin,nill,same,300,oral,cap/tab,4,nill,Adult
+Aspirin,nill,same,300,oral,cap/tab,6,nill,Adult
+Aspirin,nill,same,900,oral,cap/tab,4,nill,Adult
+Aspirin,nill,same,900,oral,cap/tab,6,nill,Adult
+Aspirin,nill,same,450,oral,cap/tab,6,nill,Adult
+Atenolol,nill,same,25,oral,cap/tab,1,nill,Adult
+Atenolol,nill,same,50,oral,cap/tab,1,nill,Adult
+Atenolol,nill,same,100,oral,cap/tab,1,nill,Adult
+Atenolol,nill,same,50,oral,cap/tab,2,nill,Adult
+Atorvastatin,nill,same,10,oral,cap/tab,1,nocte,Adult
+Atorvastatin,nill,same,40,oral,cap/tab,1,nill,Adult
+Atorvastatin,nill,same,80,oral,cap/tab,1,nill,Adult
+Atorvastatin,nill,same,20,oral,cap/tab,1,nill,Adult
+Augmentin,nill,same,625,oral,cap/tab,3,nill,nill
+Augmentin,nill,same,375,oral,cap/tab,3,nill,nill
+Augmentin,nill,same,156.25 mg/5 ml,oral,susp,nill,nill,child
+Augmentin,nill,same,228 mg/5 ml,oral,susp,nill,nill,child
+Augmentin,nill,same,375,oral,cap/tab,3,nill,nill
+Augmentin,nill,same,62.5 mg/ml,oral,drops,3,nill,child I
+Augmentin,nill,same,1200,nill,inj,nill,nill,nill
+Azithromycin,nill,same,250,oral,cap/tab,1,nill,child
+Azithromycin,nill,same,500,oral,cap/tab,1,nill,child
+Azithromycin,nill,same,500,oral,cap/tab,1,nill,Adult
+Azithromycin,nill,same,250,oral,cap/tab,1,nill,Adult
+Azithromycin,nill,same,200,oral,cap/tab,1,nill,child
+Azithromycin,nill,same,300,oral,cap/tab,1,nill,child
+Azithromycin,nill,same,400,oral,cap/tab,1,nill,child
+Azithromycin,nill,same,1,oral,cap/tab,1,nill,child IV
+Azithromycin,nill,same,1,oral,cap/tab,1,nill,Adult
+Bcomplex,nill,same,100,oral,cap/tab,nill,nill,nill
+Becosules,nill,Bcomplex,100,oral,cap/tab,nill,nill,nill
+Belcid,nill,Antacid,10ml,oral,syrup,3,nill,Adult
+Benzhexol,nill,same,2,oral,cap/tab,1,nill,Adult
+Benzhexol,nill,same,6,oral,cap/tab,1,nill,Adult
+Benzhexol,nill,same,1,oral,cap/tab,1,nill,Adult
+Benzyl,benzoate,same,nill,rectum,Ointment,2,nill,Adult
+Benzyl,benzoate,same,nill,rectum,suppo,2,nill,Adult
+Benzyl,benzoate,same,nill,rectum,cream,2,nill,Adult
+Betahistin,dihydrochloride,same,16,oral,cap/tab,3,with food,Adult
+Betamethasone,nill,same,0.5,oral,cap/tab,1,nill,Adult
+Betamethasone,nill,same,5,oral,cap/tab,1,nill,Adult
+Betamethasone,nill,same,nill,topical,cream,nill,nill,nill
+Betamethasone,nill,same,0.10%,topical,Ointment,nill,nill,nill
+Bisacodyl,nill,same,5,oral,cap/tab,1,nocte,child III
+Bisacodyl,nill,same,20,oral,cap/tab,1,nocte,child III
+Bisacodyl,nill,same,5,oral,cap/tab,1,nocte,child IV
+Bisacodyl,nill,same,20,oral,cap/tab,1,nocte,child IV
+Bisacodyl,nill,same,5,oral,cap/tab,1,nocte,Adult
+Bisacodyl,nill,same,10,oral,cap/tab,1,nocte,Adult
+Bisacodyl,nill,same,10,oral,cap/tab,2,nocte,Adult
+Bisacodyl,nill,same,20,oral,cap/tab,1,nocte,Adult
+Bisacodyl,nill,same,5,rectum,suppo,1,nill,child II
+Bisacodyl,nill,same,5,rectum,suppo,1,nill,child III
+Bisacodyl,nill,same,5,rectum,suppo,1,nill,child IV
+Bisacodyl,nill,same,10,rectum,suppo,1,nill,child II
+Bisacodyl,nill,same,10,rectum,suppo,1,nill,child III
+Bisacodyl,nill,same,10,rectum,suppo,1,nill,child IV
+Bisacodyl,nill,same,10,rectum,suppo,1,mane,Adult
+Bisacodyl,nill,same,5,oral,cap/tab,nill,nill,nill
+Buscopan,nill,same,10,oral,cap/tab,3,nill,Adult
+Calcium,lactate,same,300,oral,cap/tab,nill,nill,Adult
+Captopril,nill,same,6.25,oral,tab,2,nill,Adult
+Captopril,nill,same,12.5,oral,tab,2,nill,Adult
+Captopril,nill,same,25,oral,tab,2,nill,Adult
+Captopril,nill,same,75,oral,tab,1,nill,Adult
+Captopril,nill,same,100,oral,tab,2,nill,Adult
+Captopril,nill,same,150,oral,tab,1,nill,Adult
+Captopril,nill,same,150,oral,tab,1,nill,Elderly
+Captopril,nill,same,6.25,oral,tab,2,nill,Elderly
+Carbamazepine,nill,same,200,oral,cap/tab,1,nill,Adult
+Carbamazepine,nill,same,200,oral,cap/tab,2,nill,Adult
+Carbamazepine,nill,same,200,oral,cap/tab,3,nill,Adult
+Carbamazepine,nill,same,200,oral,cap/tab,4,nill,Adult
+Carbamazepine,nill,same,200,oral,cap/tab,1,nill,child IV
+Carbamazepine,nill,same,100,oral,cap/tab,2,nill,child IV
+Carbamazepine,nill,same,200,oral,cap/tab,2,nill,child IV
+Carbamazepine,nill,same,100,oral,cap/tab,1,nill,Adult
+Carbamazepine,nill,same,125,rectum,suppo,2,nill,Adult
+Carbamazepine,nill,same,100,oral,cap/tab,2,nill,Adult
+Carbamazepine,nill,same,600,oral,cap/tab,1,nill,Adult
+Carbamazepine,nill,same,400,oral,cap/tab,1,nill,Adult
+Carbamazepine,nill,same,100,oral,cap/tab,1,nill,child IV
+Carvedilol,nill,same,3.125,oral,cap/tab,2,with food,Adult
+Carvedilol,nill,same,6.25,oral,cap/tab,2,nill,Adult
+Carvedilol,nill,same,12.5,oral,cap/tab,1,nill,Elderly
+Carvedilol,nill,same,12.5,oral,cap/tab,1,nill,Adult
+Carvedilol,nill,same,12.5,oral,cap/tab,2,nill,Adult
+Carvedilol,nill,same,25,oral,cap/tab,1,nill,Adult
+Carvedilol,nill,same,25,oral,cap/tab,2,nill,Adult
+Carvedilol,nill,same,50,oral,cap/tab,1,nill,Adult
+Cefalexin,nill,same,125,oral,Capsule,2,nill,child I
+Cefalexin,nill,same,125,oral,Capsule,3,nill,child II
+Cefalexin,nill,same,250,oral,Capsule,3,nill,child III
+Cefalexin,nill,same,500,oral,Capsule,3,nill,child IV
+Cefalexin,nill,same,500,oral,Capsule,2,nill,child IV
+Cefalexin,nill,same,1,oral,Capsule,3,nill,child IV
+Cefalexin,nill,same,1,oral,Capsule,4,nill,child IV
+Cefalexin,nill,same,1.5,oral,Capsule,4,nill,child IV
+Cefalexin,nill,same,1.5,oral,Capsule,3,nill,child IV
+Cefalexin,nill,same,250,oral,Capsule,4,nill,Adult
+Cefalexin,nill,same,500,oral,Capsule,3,nill,Adult
+Cefalexin,nill,same,500,oral,Capsule,1,nill,Adult
+Cefalexin,nill,same,125 mg/5ml,oral,syrup,nill,nill,child
+Cefalexin,nill,same,250 mg/5ml,oral,syrup,nill,nill,child
+Cefalexin,nill,same,500 mg/5ml,oral,syrup,nill,nill,child
+Cefuroxim,nill,same,125,oral,cap/tab,2,nill,Adult
+Cefuroxim,nill,same,125,oral,cap/tab,2,nill,child IV
+Cefuroxim,nill,same,250,oral,cap/tab,2,nill,child IV
+Cefuroxim,nill,same,250,oral,cap/tab,2,nill,Adult
+Cefuroxim,nill,same,500,oral,cap/tab,2,nill,Adult
+Celecoxib,nill,same,200,oral,cap/tab,2,nill,Adult
+Cetirizine,hydrochloride,same,5mg/5ml,oral,syrup,nill,nill,nill
+Cetrizine,hydrochloride,same,2.5,oral,cap/tab,2,nill,child II
+Cetrizine,hydrochloride,same,5,oral,cap/tab,2,nill,child III
+Cetrizine,hydrochloride,same,10,oral,cap/tab,1,nill,child IV
+Cetrizine,hydrochloride,same,10,oral,cap/tab,1,nill,Adult
+Chlorpheniramine,maleate,same,4,oral,cap/tab,nill,nill,nill
+Chlorpheniramine,maleate,same,2mg/5ml,oral,syrup,nill,nill,nill
+ciprofloxacin,nill,same,500,oral,cap/tab,2,nill,Adult
+ciprofloxacin,nill,same,200mg/100ml,oral,cap/tab,nill,nill,nill
+ciprofloxacin,nill,same,750,oral,cap/tab,2,nill,Adult
+Ciprofloxacin,nill,same,0.30%,oral,Eye  drops,nill,nill,nill
+Clarithromycin,nill,same,250,oral,cap/tab,2,nill,child IV
+Clarithromycin,nill,same,500,oral,cap/tab,2,nill,child IV
+Clarithromycin,nill,same,62.5,oral,cap/tab,2,nill,child I
+Clarithromycin,nill,same,62.5,oral,cap/tab,2,nill,child II
+Clarithromycin,nill,same,62.5,oral,cap/tab,2,nill,child III
+Clarithromycin,nill,same,125,oral,cap/tab,2,nill,child I
+Clarithromycin,nill,same,125,oral,cap/tab,2,nill,child II
+Clarithromycin,nill,same,125,oral,cap/tab,2,nill,child III
+Clarithromycin,nill,same,187.5,oral,cap/tab,2,nill,child I
+Clarithromycin,nill,same,187.5,oral,cap/tab,2,nill,child II
+Clarithromycin,nill,same,187.5,oral,cap/tab,2,nill,child III
+Clarithromycin,nill,same,250,oral,cap/tab,2,nill,child I
+Clarithromycin,nill,same,250,oral,cap/tab,2,nill,child II
+Clarithromycin,nill,same,250,oral,cap/tab,2,nill,child III
+Clarithromycin,nill,same,250,oral,cap/tab,2,nill,Adult
+Clarithromycin,nill,same,500,oral,cap/tab,2,nill,Adult
+Clavamox,nill,Coamoxiclav,625,oral,cap/tab,3,nill,nill
+Clavamox,nill,Coamoxiclav,375,oral,cap/tab,3,nill,nill
+Clavamox,nill,Coamoxiclav,156.25 mg/5 ml,oral,susp,nill,nill,child
+Clavamox,nill,Coamoxiclav,228 mg/5 ml,oral,susp,nill,nill,child
+Clavamox,nill,Coamoxiclav,62.5 mg/ml,oral,drops,3,nill,child I
+Clavamox,nill,Coamoxiclav,1200,IV,inj,nill,nill,nill
+Clonazepam,nill,same,0.25,oral,cap/tab,1,nocte,child I
+Clonazepam,nill,same,0.5,oral,cap/tab,1,nocte,child I
+Clonazepam,nill,same,1,oral,cap/tab,1,nocte,child I
+Clonazepam,nill,same,0.25,oral,cap/tab,1,nocte,child II
+Clonazepam,nill,same,1,oral,cap/tab,1,nocte,child II
+Clonazepam,nill,same,3,oral,cap/tab,1,nocte,child II
+Clonazepam,nill,same,3,oral,cap/tab,1,nocte,child III
+Clonazepam,nill,same,6,oral,cap/tab,1,nocte,child III
+Clonazepam,nill,same,0.5,oral,cap/tab,1,nocte,child III
+Clonazepam,nill,same,1,oral,cap/tab,1,nocte,child IV
+Clonazepam,nill,same,4,oral,cap/tab,1,nocte,child IV
+Clonazepam,nill,same,8,oral,cap/tab,1,nocte,child IV
+Clonazepam,nill,same,1,oral,cap/tab,1,nocte,Adult
+Clonazepam,nill,same,2,oral,cap/tab,1,nill,Adult
+Clonazepam,nill,same,4,oral,cap/tab,1,nocte,Adult
+Clonazepam,nill,same,8,oral,cap/tab,1,nocte,Adult
+Clonazepam,nill,same,0.5,oral,cap/tab,1,nocte,Elderly
+Clonazepam,nill,same,4,oral,cap/tab,1,nocte,Elderly
+Clonazepam,nill,same,8,oral,cap/tab,1,nocte,Elderly
+Clopidogrel,nill,same,75,oral,cap/tab,1,nill,Elderly
+Clopidogrel,nill,same,75,oral,cap/tab,1,nill,Adult
+Clopidogrel,nill,same,300,oral,cap/tab,nill,nill,Adult
+Clopidogrel,nill,same,600,oral,cap/tab,nill,nill,Adult
+Clotrimazole,nill,same,nill,vaginal,cream,3,nill,Adult
+Clotrimazole,nill,same,nill,vaginal,cream,2,nill,Adult
+Clotrimazole,nill,same,200,vaginal,pessary,1,nocte,Adult
+Clotrimazole,nill,same,100,vaginal,pessary,1,nocte,Adult
+Clotrimazole,nill,same,500,vaginal,pessary,nill,nill,Adult
+Cloxacillin,nill,same,500,oral,capsule,4,ac,nill
+Cloxacillin,nill,same,250,oral,Capsules,nill,nill,nill
+Cloxacillin,nill,same,125mg/5ml,oral,syrup,nill,nill,nill
+Coamoxyclave,nill,same,625,oral,cap/tab,3,nill,nill
+Coamoxyclave,nill,same,375,oral,cap/tab,3,nill,nill
+Coamoxyclave,nill,same,156.25 mg/5 ml,oral,susp,nill,nill,child
+Coamoxyclave,nill,same,228 mg/5 ml,oral,susp,nill,nill,child
+Coamoxyclave,nill,same,62.5 mg/ml,oral,drops,3,nill,child I
+Coamoxyclave,nill,same,1200,oral,inj,nill,nill,nill
+Cotrimazole,nill,same,480,oral,cap/tab,1,nill,Adult
+Cotrimazole,nill,same,120,oral,cap/tab,2,nill,child I
+Cotrimazole,nill,same,240,oral,cap/tab,2,nill,child II
+Cotrimazole,nill,same,480,oral,cap/tab,2,nill,child III
+Cotrimazole,nill,same,960,oral,cap/tab,2,nill,child III
+Cotrimazole,nill,same,960,oral,cap/tab,2,nill,Adult
+Cotrimazole,nill,same,960,oral,cap/tab,1,nill,Adult
+Cotrimazole,nill,same,40 mg/5 ml,oral,susp,nill,nill,nill
+Cotrimazole,nill,same,200 mg/5 ml,oral,susp,nill,nill,nill
+Cotrimazole,nill,same,160 mg/5 ml,oral,susp,nill,nill,nill
+Cotrimazole,nill,same,800 mg/5 ml,oral,susp,nill,nill,nill
+Dexamethasone,nill,same,0.5,oral,cap/tab,2,nill,Adult
+Dexamethasone,nill,same,0.5,oral,cap/tab,3,nill,Adult
+Dexamethasone,nill,same,0.5,oral,cap/tab,1,nill,Adult
+Dexamethasone,nill,same,0.5,oral,cap/tab,1,nill,child
+Dexamethasone,nill,same,1,oral,cap/tab,1,nocte,Adult
+Dexamethasone,nill,same,2,oral,cap/tab,1,nill,Adult
+Dexamethasone,nill,same,4,oral,cap/tab,1,nill,Adult
+Dexamethasone,nill,same,8,oral,cap/tab,1,nill,Adult
+Dexamethasone,nill,same,16,oral,cap/tab,1,nill,Adult
+Diazepam,nill,same,5,oral,cap/tab,1,nocte,Adult
+Diazepam,hemisuccinate,same,5 mg/2.5 ml,rectal,solution,nill,nill,nill
+Diazepam,nill,same,15,oral,cap/tab,1,nocte,Adult
+Diazepam,nill,same,2,oral,cap/tab,1,nill,Adult
+Diazepam,nill,same,10,oral,cap/tab,1,nill,Adult
+Diazepam,nill,same,2,oral,cap/tab,3,nill,Adult
+Diazepam,nill,same,1,oral,cap/tab,3,nill,Elderly
+Diclofenac,sodium,same,50,oral,cap/tab,2,nill,nill
+Diclofenac,sodium,same,20000,topical,gel,nill,nill,nill
+Diclofenac,sodium,same,100,rectum,suppo,nill,nill,nill
+Diclofenac,sodium,same,50,rectum,suppo,nill,nill,nill
+Digicain,nill,same,10ml,oral,syrup,3,nill,Adult
+Digoxin,nill,same,0.25,oral,cap/tab,nill,nill,Adult
+Digoxin,nill,same,0.125,oral,cap/tab,nill,nill,Adult
+Digoxin,nill,same,0.0625,oral,cap/tab,nill,nill,Adult
+Diltiazem,hydrochloride,same,60,oral,cap/tab,2,nill,Elderly
+Diltiazem,hydrochloride,same,60,oral,cap/tab,3,nill,Adult
+Diperidamol,nill,same,100,oral,cap/tab,nill,nill,nill
+Domperidone,nill,same,10,oral,cap/tab,3,ac,Adult
+Domperidone,nill,same,10,oral,cap/tab,3,nill,Adult
+Domperidone,nill,same,5mg/5ml,oral,syr.,nill,nill,nill
+Domperidone,nill,same,10,oral,cap/tab,nill,nill,nill
+Domperidone,nill,same,10,oral,cap/tab,3,nill,child IV
+Dulcolax,nill,Bisacodyl,5,oral,cap/tab,1,nocte,child III
+Dulcolax,nill,Bisacodyl,5,oral,cap/tab,1,nocte,child IV
+Dulcolax,nill,Bisacodyl,5,oral,cap/tab,1,nocte,Adult
+Enalapril,maleate,same,5,oral,cap/tab,1,nill,Adult
+Enalapril,maleate,same,20,oral,cap/tab,1,nill,Adult
+Enhancin,nill,same,625,oral,cap/tab,3,nill,nill
+Enhancin,nill,same,156.25 mg/5 ml,oral,susp,nill,nill,child
+Enhancin,nill,same,228 mg/5 ml,oral,susp,nill,nill,child
+Enhancin,nill,same,375,oral,cap/tab,3,nill,nill
+Enhancin,nill,same,62.5 mg/ml,oral,drops,3,nill,child I
+Enhancin,nill,same,1200,IV,inj,nill,nill,nill
+Erythromycin,nill,same,125mg/5ml,oral,susp,nill,nill,nill
+Erythromycin,nill,same,250,oral,cap/tab,4,nill,Adult
+Erythromycin,nill,same,500,oral,cap/tab,4,nill,Adult
+Erythromycin,nill,same,1000,oral,cap/tab,4,nill,Adult
+Erythromycin,nill,same,500,oral,cap/tab,2,nill,Adult
+Erythromycin,nill,same,125,oral,cap/tab,4,nill,child I
+Erythromycin,nill,same,250,oral,cap/tab,4,nill,child II
+Erythromycin,nill,same,250,oral,cap/tab,4,nill,child III
+Erythromycin,nill,same,250,oral,cap/tab,4,nill,child IV
+Erythromycin,nill,same,500,oral,cap/tab,4,nill,child II
+Erythromycin,nill,same,500,oral,cap/tab,4,nill,child III
+Erythromycin,nill,same,500,oral,cap/tab,4,nill,child IV
+Erythromycin,nill,same,1000,oral,cap/tab,4,nill,child IV
+Esomaprazole,nill,same,20,oral,cap/tab,2,nill,Adult
+Esomaprazole,nill,same,40,oral,cap/tab,2,nill,Adult
+Famotidine,nill,same,40,oral,cap/tab,1,nocte,Adult
+Famotidine,nill,same,20,oral,cap/tab,1,nocte,Adult
+Famotidine,nill,same,40,oral,cap/tab,2,nocte,Adult
+Famotidine,nill,same,20,oral,cap/tab,2,nocte,Adult
+Fenofibrate,nill,same,200,oral,cap/tab,nill,nocte,Adult
+Ferrous,sulphate,same,200,oral,cap/tab,1,nill,child
+Ferrous,sulphate,same,200,oral,cap/tab,2,nill,child
+Ferrous,sulphate,same,200,oral,cap/tab,3,nill,child
+Ferrous,sulphate,same,200,oral,cap/tab,2,nill,Adult
+Ferrous,sulphate,same,200,oral,cap/tab,3,nill,Adult
+Ferrous,sulphate,same,200,oral,cap/tab,1,nill,Adult
+Flucloxacillin,nill,same,62.5,oral,capsule,4,nill,child I
+Flucloxacillin,nill,same,125,oral,capsule,2,nill,child I
+Flucloxacillin,nill,same,125,oral,capsule,4,nill,child I
+Flucloxacillin,nill,same,125,oral,capsule,4,nill,child II
+Flucloxacillin,nill,same,125,oral,capsule,4,nill,child III
+Flucloxacillin,nill,same,250,oral,capsule,4,nill,child II
+Flucloxacillin,nill,same,250,oral,capsule,4,nill,child III
+Flucloxacillin,nill,same,250,oral,capsule,4,nill,child IV
+Flucloxacillin,nill,same,500,oral,capsule,4,nill,child IV
+Flucloxacillin,nill,same,250,oral,capsule,4,nill,Adult
+Flucloxacillin,nill,same,500,oral,capsule,4,nill,Adult
+Flucloxacillin,nill,same,125 mg/5 ml,oral,susp,nill,nill,nill
+Flucloxacillin,nill,same,250 mg/5 ml,oral,susp,nill,nill,nill
+Flunarizine,nill,same,5,oral,cap/tab,3,nill,Adult
+Fluoxetine,hydrochloride,same,20,oral,Capsule,1,nill,Adult
+Fluoxetine,hydrochloride,same,20,oral,Capsule,1,nill,Elderly
+Fluoxetine,hydrochloride,same,40,oral,Capsule,1,nill,Elderly
+Fluoxetine,hydrochloride,same,60,oral,Capsule,1,nill,Elderly
+Fluoxetine,hydrochloride,same,60,oral,Capsule,1,nill,Adult
+Folic,Acid,same,5,oral,cap/tab,1,nill,child
+Folic,Acid,same,15,oral,cap/tab,1,nill,child
+Folic,Acid,same,5,oral,cap/tab,1,nill,Adult
+Folic,Acid,same,15,oral,cap/tab,1,nill,Adult
+Folic,Acid,same,0.4,oral,cap/tab,1,nill,Adult
+Framycetin,nill,same,1%,topical,cream,nill,nill,nill
+Frusemide,nill,same,40,oral,cap/tab,1,mane,Adult
+Frusemide,nill,same,20,oral,cap/tab,1,mane,Adult
+Frusemide,nill,same,80,oral,cap/tab,1,nill,Adult
+Frusemide,nill,same,120,oral,cap/tab,1,nill,Adult
+Frusemide,nill,same,40,oral,cap/tab,nill,nill,nill
+fucidic,Acid,same,1%,eye,drops,nill,nill,nill
+Furazolidone,nill,same,100,oral,cap/tab,4,nill,Adult
+Furosemide,nill,same,40,oral,cap/tab,1,mane,Adult
+Furosemide,nill,same,20,oral,cap/tab,1,mane,Adult
+Furosemide,nill,same,80,oral,cap/tab,1,nill,Adult
+Furosemide,nill,same,120,oral,cap/tab,1,nill,Adult
+fusigel,nill,Fusidic Acid,50,eye,drops,nill,nill,nill
+Gaviscon,nill,Antacid,10ml,oral,syrup,3,nill,Adult
+Gentamycin,nill,same,3mg/1ml,eye,drops,nill,nill,nill
+Glibenclamide,nill,same,5,oral,cap/tab,1,mane,Adult
+Gliclazide,nill,same,40,oral,cap/tab,1,nill,Adult
+Gliclazide,nill,same,80,oral,cap/tab,1,nill,Adult
+Gliclazide,nill,same,160,oral,cap/tab,1,nill,Adult
+Gliclazide,SR,same,30,oral,cap/tab,1,nill,Adult
+Glyceryl,trinitrate,same,0.3,sublingual,cap/tab,nill,nill,Adult
+Glyceryl,trinitrate,same,1,sublingual,cap/tab,nill,nill,Adult
+Glyceryl,trinitrate,same,0.5,oral,cap/tab,nill,nill,Adult
+GTN,Glyceryl Trinitrate,same,0.3,sublingual,cap/tab,nill,nill,Adult
+GTN,Glyceryl Trinitrate,same,1,sublingual,cap/tab,nill,nill,Adult
+GTN,Glyceryl Trinitrate,same,0.5,oral,cap/tab,nill,nill,Adult
+Grisofulvin,nill,same,500,oral,cap/tab,nill,nill,nill
+Hydrochlorothiazide,nill,same,25,oral,cap/tab,nill,nill,nill
+Hydrocortisone,nill,same,1%,topical,Cream,nill,nill,nill
+Hydrocortisone,nill,same,1%,topical,Ointment,nill,nill,nill
+Hydrocortisone,SR,same,20,oral,cap/tab,1,nill,Adult
+Hydrogen,peroxide,same,6%v/v,topical,Solution,nill,nill,nill
+Hyoscine,nill,same,10,oral,cap/tab,nill,nill,nill
+Hyoscine,nill,same,0.075,oral,cap/tab,nill,nill,child III
+Hyoscine,nill,same,0.15,oral,cap/tab,nill,nill,child III
+Hyoscine,nill,same,0.15,oral,cap/tab,nill,nill,child IV
+Hyoscine,nill,same,0.3,oral,cap/tab,nill,nill,child IV
+Hyoscine,nill,same,0.15,oral,cap/tab,nill,nill,Adult
+Hyoscine,nill,same,0.3,oral,cap/tab,nill,nill,Adult
+ISDN,nill,same,10,oral,cap/tab,nill,nill,nill
+Ibuprofen,IR,same,200,oral,cap/tab,3,nill,Adult
+Ibuprofen,IR,same,50,oral,cap/tab,3,nill,infant
+Ibuprofen,IR,same,50,oral,cap/tab,3,nill,child I
+Ibuprofen,IR,same,300,oral,cap/tab,3,nill,Adult
+Ibuprofen,IR,same,300,oral,cap/tab,4,nill,Adult
+Ibuprofen,IR,same,400,oral,cap/tab,3,nill,Adult
+Ibuprofen,IR,same,400,oral,cap/tab,4,nill,Adult
+Ibuprofen,IR,same,600,oral,cap/tab,4,nill,Adult
+Ibuprofen,IR,same,50,oral,cap/tab,4,nill,child I
+Ibuprofen,IR,same,100,oral,cap/tab,3,nill,child II
+Ibuprofen,IR,same,100,oral,cap/tab,3,nill,child III
+Ibuprofen,IR,same,150,oral,cap/tab,3,nill,child III
+Ibuprofen,IR,same,200,oral,cap/tab,3,nill,child III
+Ibuprofen,IR,same,300,oral,cap/tab,3,nill,child III
+Ibuprofen,IR,same,300,oral,cap/tab,3,nill,child IV
+Ibuprofen,IR,same,400,oral,cap/tab,3,nill,child IV
+Ibuprofen,IR,same,300,oral,cap/tab,4,nill,child IV
+Ibuprofen,IR,same,400,oral,cap/tab,4,nill,child IV
+Ibuprofen,nill,same,5%,topical,gel,nill,nill,nill
+Ibuprofen,nill,same,100mg/5ml,oral,syrup,nill,nill,nill
+Ibuprofen,SR,same,1600,oral,cap/tab,1,nill,child IV
+Ibuprofen,SR,same,1600,oral,cap/tab,2,nill,child IV
+Ibuprofen,SR,same,1600,oral,cap/tab,1,nill,Adult
+indomethazine,nill,same,25,oral,capsules,nill,nill,nill
+Insulin,nill,same,20 units,IV,Solution,nill,mane,Adult
+Insulin,nill,same,20 units,IV,Solution,nill,vespa,Adult
+Ipratropium,Bromide,same,0.5mg/2ml,Respiratory,Solution,nill,nill,nill
+Ipratropium,Bromide,same,250mcg/1ml,respiratory,solution,nill,nill,nill
+Isosorbide,Mononitrate,same,20,oral,cap/tab,nill,nill,nill
+Jeewani,nill,ORS,1 pkt,oral,sachet,nill,nill,Adult
+Jeewani,nill,ORS,1 pkt,oral,sachet,nill,nill,child
+Keflex,nill,same,125 mg/5ml,oral,syrup,nill,nill,child
+Keflex,nill,same,250 mg/5ml,oral,syrup,nill,nill,child
+Lactulose,nill,same,3.0-3.7mg/5ml ,oral,syr.,nill,nill,nill
+Lignocaine,nill,same,2%,topical,gel,nill,nill,nill
+Losartan,nill,same,50,oral,cap/tab,nill,nill,nill
+Mebendazole,nill,same,100,oral,cap/tab,nill,nill,nill
+Mebendazole,nill,same,500,oral,cap/cap/tab,nill,nill,nill
+metapralol,nill,same,50,oral,cap/tab,nill,nill,nill
+Metformin,nill,same,500,oral,cap/tab,nill,nill,nill
+Metoclopramide,nill,same,10,oral,cap/tab,3,nill,Adult
+Metronidazole,nill,same,200,oral,cap/tab,nill,nill,nill
+Miconazole,nitrate,same,2%,topical,cream,nill,nill,nill
+Motifene,nill,same,75,oral,cap,1,nill,Adult
+Motifene,nill,same,75,oral,cap,2,nill,Adult
+Neurobin,nill,Bcomplex,100,oral,cap/cap/tab,nill,nill,nill
+Nicorondil,nill,same,10,oral,cap/tab,nill,nill,nill
+Nifedipine,nill,same,20,oral,cap/tab,nill,nill,nill
+Nitrofurantoin,nill,same,100,oral,cap/tab,3,nill,Adult
+Nitrofurantoin,nill,same,50,oral,cap/tab,nill,nill,nill
+Norfloxacin,nill,same,400,oral,cap/tab,2,nill,Adult
+Nuro B,nill,Bcomplex,100,oral,cap/cap/tab,nill,nill,nill
+Omeprazole,nill,same,20,oral,cap/tab,2,nill,Adult
+ORS,nill,same,nill,oral,sachet,nill,nill,Adult
+ORS,nill,same,nill,oral,sachet,nill,nill,child
+Pantaprazole,nill,same,20,oral,cap/tab,2,nill,Adult
+Pantaprazole,nill,same,40,oral,cap/tab,2,nill,Adult
+Paracetamol,nill,same,1000,oral,cap/tab,3,nill,Adult
+Paracetamol,nill,same,1000,oral,cap/tab,3,nill,child
+Paracetamol,nill,same,120mg/5ml,oral,syrup,nill,nill,nill
+Permethrin,nill,same,5%,topical,cream,nill,nill,nill
+Phenoxymethyl,nill,same,250,oral,cap/tab,nill,nill,nill
+Phenytoin,sodium,same,100,oral,cap/tab,nill,nill,nill
+Piriton,nill,Chlorpheniramine,2mg/5ml,oral,syrup,nill,nill,nill
+Piriton,nill,Chlorpheniramine,1,oral,cap/tab,2,nill,child I
+Piriton,nill,Chlorpheniramine,1,oral,cap/tab,4,nill,child II
+Piriton,nill,Chlorpheniramine,1,oral,cap/tab,6,nill,child II
+Piriton,nill,Chlorpheniramine,2,oral,cap/tab,4,nill,child III
+Piriton,nill,Chlorpheniramine,2,oral,cap/tab,6,nill,child III
+Polyvidone,iodine,same,10%w/v,topical,solution,nill,nill,nill
+Polyvidone,iodine,same,nill,topical,cream,nill,nill,nill
+Potassium,chloride,same,600,oral,cap/tab,nill,nill,nill
+Povidone,iodine,same,10%w/v,topical,solution,nill,nill,nill
+povidone ,iodine,same,nill,topical,cream,nill,nill,nill
+Prazosin,hydrochloride,same,1,oral,cap/tab,nill,nill,nill
+Prednisolone,nill,same,5,oral,cap/tab,3,nill,Adult
+Prednisolone,nill,same,5,oral,cap/tab,3,nill,child
+Prochlorperazine,nill,same,5,oral,cap/tab,nill,nill,nill
+Promethazine,nill,same,10,oral,cap/tab,3,nill,Adult
+Promethazine,nill,same,25,oral,cap/tab,nill,nill,nill
+Propranolol,nill,same,40,oral,cap/tab,3,nill,Adult
+Resperidone,nill,same,1,oral,cap/tab,nill,nill,nill
+Risperidone,nill,same,2,oral,tab.,nill,nill,nill
+Rosuvastatin,nill,same,10,oral,cap/tab,nill,nocte,Adult
+Rosuvastatin,nill,same,20,oral,cap/tab,nill,nocte,Adult
+Salbutamol,nill,same,2,oral,cap/tab,3,nill,nill
+Salbutamol,nill,same,nill,respiratory,aerosol ,nill,nill,nill
+Salbutamol,nill,same,4,oral,cap/tab,nill,nill,nill
+Salbutamol,nill,same,0.50%,respiratory,solution,nill,nill,nill
+Salbutamol,nill,same,2mg/5ml,oral,Syrup,nill,nill,nill
+Silversulphadiazine,nill,same,1%,topical,cream,nill,nill,nill
+Simvastatin,nill,same,10,oral,cap/tab,nill,nocte,Adult
+Simvastatin,nill,same,20,oral,cap/tab,nill,nocte,Adult
+Sitagliptin,nill,same,50,oral,cap/tab,nill,mane,Adult
+Sodium,valporate,same,200,oral,cap/tab,nill,nill,nill
+Spironolactone,nill,same,25,oral,cap/tab,nill,nill,nill
+Thiophyllin,nill,same,125,oral,cap/tab,2,nill,nill
+Thiophyllin,nill,same,25mg/5ml,oral,Syrup,nill,nill,nill
+Thyroxine,sodium,same,0.05,oral,cap/cap/tab,nill,nill,nill
+Tolbutamide,nill,same,500,oral,cap/tab,nill,nill,nill
+Tramadol,nill,same,50,oral,cap/tab,2,nill,Adult
+Trihexyphenidyl,nill,same,2,oral,cap/tab,1,nill,Adult
+Trihexyphenidyl,nill,same,6,oral,cap/tab,1,nill,Adult
+Trihexyphenidyl,nill,same,1,oral,cap/tab,1,nill,Adult
+Verapamil,hydrochloride,same,40,oral,cap/tab,nill,nill,nill
+Vintolin,nill,Salbutamol,2,oral,cap/tab,3,nill,nill
+VitaminC,nill,same,100,oral,cap/tab,3,nill,Adult
+VitaminC,nill,same,100,oral,cap/tab,3,nill,child
+Voltarol,emulgel,Diclofenac,nill,topical,gel,3,nill,Adult
+Voltarol,emulgel,Diclofenac,nill,topical,gel,4,nill,Adult
+Voltarol,Retard,Diclofenac,nill,oral,cap/tab,1,nill,Adult
+Voltarol,SR,Diclofenac,75,oral,cap/tab,2,nill,Adult

@@ -1,0 +1,156 @@
+C:\Users\Thilini\source\repos\Application_V2\Application_V2\bin\Debug\Application_V2.exe.config
+C:\Users\Thilini\source\repos\Application_V2\Application_V2\bin\Debug\Application_V2.exe
+C:\Users\Thilini\source\repos\Application_V2\Application_V2\bin\Debug\Application_V2.pdb
+C:\Users\Thilini\source\repos\Application_V2\Application_V2\obj\Debug\Application_V2.csprojAssemblyReference.cache
+C:\Users\Thilini\source\repos\Application_V2\Application_V2\obj\Debug\Application_V2.Form1.resources
+C:\Users\Thilini\source\repos\Application_V2\Application_V2\obj\Debug\Application_V2.Properties.Resources.resources
+C:\Users\Thilini\source\repos\Application_V2\Application_V2\obj\Debug\Application_V2.csproj.GenerateResource.cache
+C:\Users\Thilini\source\repos\Application_V2\Application_V2\obj\Debug\Application_V2.exe
+C:\Users\Thilini\source\repos\Application_V2\Application_V2\obj\Debug\Application_V2.pdb
+C:\Users\Thilini\source\repos\Application_V2\Application_V2\obj\Debug\Application_V2.Form2.resources
+C:\Users\Thilini\source\repos\Application_V2\Application_V2\bin\Debug\IronPython.dll
+C:\Users\Thilini\source\repos\Application_V2\Application_V2\bin\Debug\IronPython.Modules.dll
+C:\Users\Thilini\source\repos\Application_V2\Application_V2\bin\Debug\IronPython.SQLite.dll
+C:\Users\Thilini\source\repos\Application_V2\Application_V2\bin\Debug\IronPython.Wpf.dll
+C:\Users\Thilini\source\repos\Application_V2\Application_V2\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Thilini\source\repos\Application_V2\Application_V2\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Thilini\source\repos\Application_V2\Application_V2\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Thilini\source\repos\Application_V2\Application_V2\bin\Debug\IronPython.xml
+C:\Users\Thilini\source\repos\Application_V2\Application_V2\bin\Debug\IronPython.Modules.xml
+C:\Users\Thilini\source\repos\Application_V2\Application_V2\bin\Debug\IronPython.SQLite.xml
+C:\Users\Thilini\source\repos\Application_V2\Application_V2\bin\Debug\IronPython.Wpf.xml
+C:\Users\Thilini\source\repos\Application_V2\Application_V2\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\Thilini\source\repos\Application_V2\Application_V2\bin\Debug\Microsoft.Scripting.xml
+C:\Users\Thilini\source\repos\Application_V2\Application_V2\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Thilini\source\repos\Application_V2\Application_V2\obj\Debug\Application_V2.csproj.CopyComplete
+C:\Users\Thilini\source\repos\Application_V2\Application_V2\obj\Debug\Application_V2.csproj.CoreCompileInputs.cache
+C:\Users\Thilini\source\repos\Application_V2 - Copy\Application_V2\obj\Debug\Application_V2.csprojAssemblyReference.cache
+C:\Users\Thilini\source\repos\Application_V2 - Copy\Application_V2\obj\Debug\Application_V2.Form1.resources
+C:\Users\Thilini\source\repos\Application_V2 - Copy\Application_V2\obj\Debug\Application_V2.Form2.resources
+C:\Users\Thilini\source\repos\Application_V2 - Copy\Application_V2\obj\Debug\Application_V2.Properties.Resources.resources
+C:\Users\Thilini\source\repos\Application_V2 - Copy\Application_V2\obj\Debug\Application_V2.csproj.GenerateResource.cache
+C:\Users\Thilini\source\repos\Application_V2 - Copy\Application_V2\obj\Debug\Application_V2.csproj.CoreCompileInputs.cache
+C:\Users\Thilini\source\repos\Application_V2 - Copy\Application_V2\obj\Debug\Application_V2.exe
+C:\Users\Thilini\source\repos\Application_V2 - Copy\Application_V2\obj\Debug\Application_V2.pdb
+C:\Users\Thilini\source\repos\Application_V2 - Copy\Application_V2\bin\Debug\Application_V2.exe.config
+C:\Users\Thilini\source\repos\Application_V2 - Copy\Application_V2\bin\Debug\Application_V2.exe
+C:\Users\Thilini\source\repos\Application_V2 - Copy\Application_V2\bin\Debug\Application_V2.pdb
+C:\Users\Thilini\source\repos\Application_V2 - Copy\Application_V2\bin\Debug\IronPython.dll
+C:\Users\Thilini\source\repos\Application_V2 - Copy\Application_V2\bin\Debug\IronPython.Modules.dll
+C:\Users\Thilini\source\repos\Application_V2 - Copy\Application_V2\bin\Debug\IronPython.SQLite.dll
+C:\Users\Thilini\source\repos\Application_V2 - Copy\Application_V2\bin\Debug\IronPython.Wpf.dll
+C:\Users\Thilini\source\repos\Application_V2 - Copy\Application_V2\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Thilini\source\repos\Application_V2 - Copy\Application_V2\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Thilini\source\repos\Application_V2 - Copy\Application_V2\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Thilini\source\repos\Application_V2 - Copy\Application_V2\bin\Debug\IronPython.xml
+C:\Users\Thilini\source\repos\Application_V2 - Copy\Application_V2\bin\Debug\IronPython.Modules.xml
+C:\Users\Thilini\source\repos\Application_V2 - Copy\Application_V2\bin\Debug\IronPython.SQLite.xml
+C:\Users\Thilini\source\repos\Application_V2 - Copy\Application_V2\bin\Debug\IronPython.Wpf.xml
+C:\Users\Thilini\source\repos\Application_V2 - Copy\Application_V2\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\Thilini\source\repos\Application_V2 - Copy\Application_V2\bin\Debug\Microsoft.Scripting.xml
+C:\Users\Thilini\source\repos\Application_V2 - Copy\Application_V2\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Thilini\source\repos\Application_V2 - Copy\Application_V2\obj\Debug\Application_V2.csproj.CopyComplete
+C:\Users\Thilini\source\repos\Application_V4\Application_V2\bin\Debug\Application_V2.exe.config
+C:\Users\Thilini\source\repos\Application_V4\Application_V2\bin\Debug\Application_V2.exe
+C:\Users\Thilini\source\repos\Application_V4\Application_V2\bin\Debug\Application_V2.pdb
+C:\Users\Thilini\source\repos\Application_V4\Application_V2\bin\Debug\IronPython.dll
+C:\Users\Thilini\source\repos\Application_V4\Application_V2\bin\Debug\IronPython.Modules.dll
+C:\Users\Thilini\source\repos\Application_V4\Application_V2\bin\Debug\IronPython.SQLite.dll
+C:\Users\Thilini\source\repos\Application_V4\Application_V2\bin\Debug\IronPython.Wpf.dll
+C:\Users\Thilini\source\repos\Application_V4\Application_V2\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Thilini\source\repos\Application_V4\Application_V2\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Thilini\source\repos\Application_V4\Application_V2\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Thilini\source\repos\Application_V4\Application_V2\bin\Debug\IronPython.xml
+C:\Users\Thilini\source\repos\Application_V4\Application_V2\bin\Debug\IronPython.Modules.xml
+C:\Users\Thilini\source\repos\Application_V4\Application_V2\bin\Debug\IronPython.SQLite.xml
+C:\Users\Thilini\source\repos\Application_V4\Application_V2\bin\Debug\IronPython.Wpf.xml
+C:\Users\Thilini\source\repos\Application_V4\Application_V2\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\Thilini\source\repos\Application_V4\Application_V2\bin\Debug\Microsoft.Scripting.xml
+C:\Users\Thilini\source\repos\Application_V4\Application_V2\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Thilini\source\repos\Application_V4\Application_V2\obj\Debug\Application_V2.csprojAssemblyReference.cache
+C:\Users\Thilini\source\repos\Application_V4\Application_V2\obj\Debug\Application_V2.Form1.resources
+C:\Users\Thilini\source\repos\Application_V4\Application_V2\obj\Debug\Application_V2.Form2.resources
+C:\Users\Thilini\source\repos\Application_V4\Application_V2\obj\Debug\Application_V2.Properties.Resources.resources
+C:\Users\Thilini\source\repos\Application_V4\Application_V2\obj\Debug\Application_V2.csproj.GenerateResource.cache
+C:\Users\Thilini\source\repos\Application_V4\Application_V2\obj\Debug\Application_V2.csproj.CoreCompileInputs.cache
+C:\Users\Thilini\source\repos\Application_V4\Application_V2\obj\Debug\Application_V2.csproj.CopyComplete
+C:\Users\Thilini\source\repos\Application_V4\Application_V2\obj\Debug\Application_V2.exe
+C:\Users\Thilini\source\repos\Application_V4\Application_V2\obj\Debug\Application_V2.pdb
+E:\My_Stuff\Final Project\New folder (2)\New folder\Application_V4\Application_V2\bin\Debug\Application_V2.exe.config
+E:\My_Stuff\Final Project\New folder (2)\New folder\Application_V4\Application_V2\bin\Debug\Application_V2.exe
+E:\My_Stuff\Final Project\New folder (2)\New folder\Application_V4\Application_V2\bin\Debug\Application_V2.pdb
+E:\My_Stuff\Final Project\New folder (2)\New folder\Application_V4\Application_V2\bin\Debug\IronPython.dll
+E:\My_Stuff\Final Project\New folder (2)\New folder\Application_V4\Application_V2\bin\Debug\IronPython.Modules.dll
+E:\My_Stuff\Final Project\New folder (2)\New folder\Application_V4\Application_V2\bin\Debug\IronPython.SQLite.dll
+E:\My_Stuff\Final Project\New folder (2)\New folder\Application_V4\Application_V2\bin\Debug\IronPython.Wpf.dll
+E:\My_Stuff\Final Project\New folder (2)\New folder\Application_V4\Application_V2\bin\Debug\Microsoft.Dynamic.dll
+E:\My_Stuff\Final Project\New folder (2)\New folder\Application_V4\Application_V2\bin\Debug\Microsoft.Scripting.dll
+E:\My_Stuff\Final Project\New folder (2)\New folder\Application_V4\Application_V2\bin\Debug\Microsoft.Scripting.Metadata.dll
+E:\My_Stuff\Final Project\New folder (2)\New folder\Application_V4\Application_V2\bin\Debug\IronPython.xml
+E:\My_Stuff\Final Project\New folder (2)\New folder\Application_V4\Application_V2\bin\Debug\IronPython.Modules.xml
+E:\My_Stuff\Final Project\New folder (2)\New folder\Application_V4\Application_V2\bin\Debug\IronPython.SQLite.xml
+E:\My_Stuff\Final Project\New folder (2)\New folder\Application_V4\Application_V2\bin\Debug\IronPython.Wpf.xml
+E:\My_Stuff\Final Project\New folder (2)\New folder\Application_V4\Application_V2\bin\Debug\Microsoft.Dynamic.xml
+E:\My_Stuff\Final Project\New folder (2)\New folder\Application_V4\Application_V2\bin\Debug\Microsoft.Scripting.xml
+E:\My_Stuff\Final Project\New folder (2)\New folder\Application_V4\Application_V2\bin\Debug\Microsoft.Scripting.Metadata.xml
+E:\My_Stuff\Final Project\New folder (2)\New folder\Application_V4\Application_V2\obj\Debug\Application_V2.csprojAssemblyReference.cache
+E:\My_Stuff\Final Project\New folder (2)\New folder\Application_V4\Application_V2\obj\Debug\Application_V2.Form1.resources
+E:\My_Stuff\Final Project\New folder (2)\New folder\Application_V4\Application_V2\obj\Debug\Application_V2.Form2.resources
+E:\My_Stuff\Final Project\New folder (2)\New folder\Application_V4\Application_V2\obj\Debug\Application_V2.Properties.Resources.resources
+E:\My_Stuff\Final Project\New folder (2)\New folder\Application_V4\Application_V2\obj\Debug\Application_V2.csproj.GenerateResource.cache
+E:\My_Stuff\Final Project\New folder (2)\New folder\Application_V4\Application_V2\obj\Debug\Application_V2.csproj.CoreCompileInputs.cache
+E:\My_Stuff\Final Project\New folder (2)\New folder\Application_V4\Application_V2\obj\Debug\Application_V2.csproj.CopyComplete
+E:\My_Stuff\Final Project\New folder (2)\New folder\Application_V4\Application_V2\obj\Debug\Application_V2.exe
+E:\My_Stuff\Final Project\New folder (2)\New folder\Application_V4\Application_V2\obj\Debug\Application_V2.pdb
+E:\ASSIGNMENTS\AB_Imasha\15 Coding in .NET framework_ 6000_24th Sep\Pharmacy Management System\Application_V2\bin\Debug\Application_V2.exe.config
+E:\ASSIGNMENTS\AB_Imasha\15 Coding in .NET framework_ 6000_24th Sep\Pharmacy Management System\Application_V2\bin\Debug\Application_V2.exe
+E:\ASSIGNMENTS\AB_Imasha\15 Coding in .NET framework_ 6000_24th Sep\Pharmacy Management System\Application_V2\bin\Debug\Application_V2.pdb
+E:\ASSIGNMENTS\AB_Imasha\15 Coding in .NET framework_ 6000_24th Sep\Pharmacy Management System\Application_V2\bin\Debug\IronPython.dll
+E:\ASSIGNMENTS\AB_Imasha\15 Coding in .NET framework_ 6000_24th Sep\Pharmacy Management System\Application_V2\bin\Debug\IronPython.Modules.dll
+E:\ASSIGNMENTS\AB_Imasha\15 Coding in .NET framework_ 6000_24th Sep\Pharmacy Management System\Application_V2\bin\Debug\IronPython.SQLite.dll
+E:\ASSIGNMENTS\AB_Imasha\15 Coding in .NET framework_ 6000_24th Sep\Pharmacy Management System\Application_V2\bin\Debug\IronPython.Wpf.dll
+E:\ASSIGNMENTS\AB_Imasha\15 Coding in .NET framework_ 6000_24th Sep\Pharmacy Management System\Application_V2\bin\Debug\Microsoft.Dynamic.dll
+E:\ASSIGNMENTS\AB_Imasha\15 Coding in .NET framework_ 6000_24th Sep\Pharmacy Management System\Application_V2\bin\Debug\Microsoft.Scripting.dll
+E:\ASSIGNMENTS\AB_Imasha\15 Coding in .NET framework_ 6000_24th Sep\Pharmacy Management System\Application_V2\bin\Debug\Microsoft.Scripting.Metadata.dll
+E:\ASSIGNMENTS\AB_Imasha\15 Coding in .NET framework_ 6000_24th Sep\Pharmacy Management System\Application_V2\bin\Debug\IronPython.xml
+E:\ASSIGNMENTS\AB_Imasha\15 Coding in .NET framework_ 6000_24th Sep\Pharmacy Management System\Application_V2\bin\Debug\IronPython.Modules.xml
+E:\ASSIGNMENTS\AB_Imasha\15 Coding in .NET framework_ 6000_24th Sep\Pharmacy Management System\Application_V2\bin\Debug\IronPython.SQLite.xml
+E:\ASSIGNMENTS\AB_Imasha\15 Coding in .NET framework_ 6000_24th Sep\Pharmacy Management System\Application_V2\bin\Debug\IronPython.Wpf.xml
+E:\ASSIGNMENTS\AB_Imasha\15 Coding in .NET framework_ 6000_24th Sep\Pharmacy Management System\Application_V2\bin\Debug\Microsoft.Dynamic.xml
+E:\ASSIGNMENTS\AB_Imasha\15 Coding in .NET framework_ 6000_24th Sep\Pharmacy Management System\Application_V2\bin\Debug\Microsoft.Scripting.xml
+E:\ASSIGNMENTS\AB_Imasha\15 Coding in .NET framework_ 6000_24th Sep\Pharmacy Management System\Application_V2\bin\Debug\Microsoft.Scripting.Metadata.xml
+E:\ASSIGNMENTS\AB_Imasha\15 Coding in .NET framework_ 6000_24th Sep\Pharmacy Management System\Application_V2\obj\Debug\Application_V2.csproj.AssemblyReference.cache
+E:\ASSIGNMENTS\AB_Imasha\15 Coding in .NET framework_ 6000_24th Sep\Pharmacy Management System\Application_V2\obj\Debug\Application_V2.Form1.resources
+E:\ASSIGNMENTS\AB_Imasha\15 Coding in .NET framework_ 6000_24th Sep\Pharmacy Management System\Application_V2\obj\Debug\Application_V2.Form2.resources
+E:\ASSIGNMENTS\AB_Imasha\15 Coding in .NET framework_ 6000_24th Sep\Pharmacy Management System\Application_V2\obj\Debug\Application_V2.Properties.Resources.resources
+E:\ASSIGNMENTS\AB_Imasha\15 Coding in .NET framework_ 6000_24th Sep\Pharmacy Management System\Application_V2\obj\Debug\Application_V2.csproj.GenerateResource.cache
+E:\ASSIGNMENTS\AB_Imasha\15 Coding in .NET framework_ 6000_24th Sep\Pharmacy Management System\Application_V2\obj\Debug\Application_V2.csproj.CoreCompileInputs.cache
+E:\ASSIGNMENTS\AB_Imasha\15 Coding in .NET framework_ 6000_24th Sep\Pharmacy Management System\Application_V2\obj\Debug\Application_V2.csproj.CopyComplete
+E:\ASSIGNMENTS\AB_Imasha\15 Coding in .NET framework_ 6000_24th Sep\Pharmacy Management System\Application_V2\obj\Debug\Application_V2.exe
+E:\ASSIGNMENTS\AB_Imasha\15 Coding in .NET framework_ 6000_24th Sep\Pharmacy Management System\Application_V2\obj\Debug\Application_V2.pdb
+F:\A_CAMPUS\BCS_FInal_Year_Research\02 - Development Files\04 - Demo Application\Prescription Reading Application\Application_V2\bin\Debug\Application_V2.exe.config
+F:\A_CAMPUS\BCS_FInal_Year_Research\02 - Development Files\04 - Demo Application\Prescription Reading Application\Application_V2\bin\Debug\Application_V2.exe
+F:\A_CAMPUS\BCS_FInal_Year_Research\02 - Development Files\04 - Demo Application\Prescription Reading Application\Application_V2\bin\Debug\Application_V2.pdb
+F:\A_CAMPUS\BCS_FInal_Year_Research\02 - Development Files\04 - Demo Application\Prescription Reading Application\Application_V2\bin\Debug\IronPython.dll
+F:\A_CAMPUS\BCS_FInal_Year_Research\02 - Development Files\04 - Demo Application\Prescription Reading Application\Application_V2\bin\Debug\IronPython.Modules.dll
+F:\A_CAMPUS\BCS_FInal_Year_Research\02 - Development Files\04 - Demo Application\Prescription Reading Application\Application_V2\bin\Debug\IronPython.SQLite.dll
+F:\A_CAMPUS\BCS_FInal_Year_Research\02 - Development Files\04 - Demo Application\Prescription Reading Application\Application_V2\bin\Debug\IronPython.Wpf.dll
+F:\A_CAMPUS\BCS_FInal_Year_Research\02 - Development Files\04 - Demo Application\Prescription Reading Application\Application_V2\bin\Debug\Microsoft.Dynamic.dll
+F:\A_CAMPUS\BCS_FInal_Year_Research\02 - Development Files\04 - Demo Application\Prescription Reading Application\Application_V2\bin\Debug\Microsoft.Scripting.dll
+F:\A_CAMPUS\BCS_FInal_Year_Research\02 - Development Files\04 - Demo Application\Prescription Reading Application\Application_V2\bin\Debug\Microsoft.Scripting.Metadata.dll
+F:\A_CAMPUS\BCS_FInal_Year_Research\02 - Development Files\04 - Demo Application\Prescription Reading Application\Application_V2\bin\Debug\IronPython.xml
+F:\A_CAMPUS\BCS_FInal_Year_Research\02 - Development Files\04 - Demo Application\Prescription Reading Application\Application_V2\bin\Debug\IronPython.Modules.xml
+F:\A_CAMPUS\BCS_FInal_Year_Research\02 - Development Files\04 - Demo Application\Prescription Reading Application\Application_V2\bin\Debug\IronPython.SQLite.xml
+F:\A_CAMPUS\BCS_FInal_Year_Research\02 - Development Files\04 - Demo Application\Prescription Reading Application\Application_V2\bin\Debug\IronPython.Wpf.xml
+F:\A_CAMPUS\BCS_FInal_Year_Research\02 - Development Files\04 - Demo Application\Prescription Reading Application\Application_V2\bin\Debug\Microsoft.Dynamic.xml
+F:\A_CAMPUS\BCS_FInal_Year_Research\02 - Development Files\04 - Demo Application\Prescription Reading Application\Application_V2\bin\Debug\Microsoft.Scripting.xml
+F:\A_CAMPUS\BCS_FInal_Year_Research\02 - Development Files\04 - Demo Application\Prescription Reading Application\Application_V2\bin\Debug\Microsoft.Scripting.Metadata.xml
+F:\A_CAMPUS\BCS_FInal_Year_Research\02 - Development Files\04 - Demo Application\Prescription Reading Application\Application_V2\obj\Debug\Application_V2.csproj.AssemblyReference.cache
+F:\A_CAMPUS\BCS_FInal_Year_Research\02 - Development Files\04 - Demo Application\Prescription Reading Application\Application_V2\obj\Debug\Application_V2.Form1.resources
+F:\A_CAMPUS\BCS_FInal_Year_Research\02 - Development Files\04 - Demo Application\Prescription Reading Application\Application_V2\obj\Debug\Application_V2.Form2.resources
+F:\A_CAMPUS\BCS_FInal_Year_Research\02 - Development Files\04 - Demo Application\Prescription Reading Application\Application_V2\obj\Debug\Application_V2.Properties.Resources.resources
+F:\A_CAMPUS\BCS_FInal_Year_Research\02 - Development Files\04 - Demo Application\Prescription Reading Application\Application_V2\obj\Debug\Application_V2.csproj.GenerateResource.cache
+F:\A_CAMPUS\BCS_FInal_Year_Research\02 - Development Files\04 - Demo Application\Prescription Reading Application\Application_V2\obj\Debug\Application_V2.csproj.CoreCompileInputs.cache
+F:\A_CAMPUS\BCS_FInal_Year_Research\02 - Development Files\04 - Demo Application\Prescription Reading Application\Application_V2\obj\Debug\Application_V2.csproj.CopyComplete
+F:\A_CAMPUS\BCS_FInal_Year_Research\02 - Development Files\04 - Demo Application\Prescription Reading Application\Application_V2\obj\Debug\Application_V2.exe
+F:\A_CAMPUS\BCS_FInal_Year_Research\02 - Development Files\04 - Demo Application\Prescription Reading Application\Application_V2\obj\Debug\Application_V2.pdb
